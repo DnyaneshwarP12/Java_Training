@@ -1,0 +1,8 @@
+spring:
+  datasource:
+    url: jdbc:mysql://mysql:3306/employee_db
+    username: root
+    password: Dnyanu@83
+  jpa:
+    hibernate:
+      ddl-auto: update
